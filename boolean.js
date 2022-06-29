@@ -40,10 +40,7 @@ if(strokes == 1){
 }else{
   return names[6];
 }
-
-
-  return "Change Me";
   // Only change code above this line
 }
 
-console.log(golfScore(5, 4));
+console.log(golfScore(3, 4));
