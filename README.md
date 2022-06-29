@@ -12,3 +12,13 @@
 #   return "10 or Less";
 # }
 # }Combine the if statements into a single if/else statement.
+
+# Introducing Else If Statements
+# If you have multiple conditions that need to be # addressed, you can chain if statements together with # else if statements.
+# Convert the logic to use else if statements.
+# 
+# 
+# 
+# 
+# 
+# 
